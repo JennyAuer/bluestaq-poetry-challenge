@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import { AuthorPage } from './features/AuthorPage/AuthorPage';
+import { AuthorPage } from './features/AuthorPage/authorPage';
+
 
 function App() {
   return (
